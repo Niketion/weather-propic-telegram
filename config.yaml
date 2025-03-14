@@ -1,0 +1,9 @@
+# config.yaml
+# Configuration file for Telegram API credentials and user settings.
+# Replace the placeholder values below with your actual credentials.
+
+api_id: "your_api_id_here"
+api_hash: "your_api_hash_here"
+telegram_session_name: "session_name"
+telegram_phone: "+1234567890"
+telegram_password: "your_2fa_password_here"
